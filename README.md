@@ -1,4 +1,13 @@
 ## Hi there 👋
+-Nathan Krauz
+-Info Tech Cyber security (Bachelor)
+-Current student at Wright State university
+
+# Projects
+**Work in progress**
+-Python network scanner
+-Linux System Monitoring Dashbored
+
 
 <!--
 **NathanKrauz1/NathanKrauz1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
